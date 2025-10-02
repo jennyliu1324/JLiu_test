@@ -1,4 +1,4 @@
-# JLiu_test
+# Jenny Liu
 
 - respository is just fancy word for folder
 `code` all scripts used in analysis
